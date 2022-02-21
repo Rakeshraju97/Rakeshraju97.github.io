@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "in.co.poweroins.rakesh.twa",
+    "sha256_cert_fingerprints": [
+      "22:E7:40:22:F0:18:92:53:30:C9:4A:AF:7D:A6:4D:39:A2:70:EC:64:F4:00:5D:F0:34:68:DB:01:A8:85:4B:A3"
+    ]
+  }
+}]
